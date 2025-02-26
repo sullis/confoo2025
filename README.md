@@ -16,6 +16,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|---------------|---------|
 | Welcome to the AI Jungle! Now What? | Taylor Smith, Cedric Clyburn | [Slides (PDF)](26-02-2025/Welcome_to_the_AI_Jungle-Now_What-Taylor_Smith-Cedric_Clyburn.pdf) |
 | Node.js and Javascript at the Edge | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Nodejs_and_JavaScript_at_the_Edge-Michael_Dawson.pdf) |
+| Let’s Create a GitHub Copilot Extension | Nick Taylor | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Lets_Build_a_Copilot_Extension-Nick_Taylor.pdf) |
+| Why HTML Forms Still Rule the Web | Nick Taylor | [slides](https://github.com/confooca/2025/blob/main/2025-02-26/Why_HTML_Forms_Still_Rule_the_Web-Nick_Taylor.pdf) |
 |--------------------|---------------|---------|
 
 
