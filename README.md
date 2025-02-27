@@ -30,7 +30,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
 Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
-|--------------------| --------------- | ---------                                                                                                                                      |
+| The hidden dance of complexity | Michiel Rook | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
+|--------------------|---------------|---------|
 
 
 ## February 28
