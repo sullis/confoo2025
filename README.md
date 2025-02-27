@@ -23,6 +23,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Azure IaC for Developers with C# and Pulumi | AL Rodriguez | [Slides (PDF)](26-02-2025/Azure_IaC_for_Developers_with_CSharp_and_Pulumi-AL_Rodriguez.pdf)                                      |
 | Going Async with Symfony Messenger  | Hugo Hamon | [Slides (PDF)](2025-02-26/Going_Async_with_Symfony_Messenger-Hugo_Hamon.pdf) / [Code](https://github.com/hhamon/messenger-talk)  |
 | GitHub Actions                                        | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                          |
+| Testing AI Applications - A Whole New Ballgame | Adam Englander | [Slides (PDF)](26-02-2025/Testing_AI_Applications_A_Whole_New_Ballgame-Adam_Englander.pdf)|
 |--------------------|---------------| ---------                                                                                                                        |
 
 
