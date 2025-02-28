@@ -8,7 +8,7 @@
 
 Below you will find the slides of most presentations given at ConFoo 2025.
 
-Speakers: [Add your slides and demos](CONTRIBUTING.md).
+**Speakers: Please read the contribution guidelines --> [Add your slides and demos](CONTRIBUTING.md)**
 
 ## February 26
 
