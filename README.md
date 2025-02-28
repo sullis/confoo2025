@@ -56,6 +56,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
 | Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
+| The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
 
 ## February 28
 
