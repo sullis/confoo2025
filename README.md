@@ -20,11 +20,13 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 ## February 27
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| CQRS/MediatR et minimal API - Une approche pragmatique | Erik Beaulieu | [Slides (PDF)](27-02-2025/CQRS-MediatR_et_minimal_API_Une_approche_pramatique-Erik_Beaulieu.pdf)|
 |--------------------|---------------|---------|
 
 
 ## February 28
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| The art of code review - Balancing People and Code | Erik Beaulieu | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 |--------------------|---------------|---------|
 
