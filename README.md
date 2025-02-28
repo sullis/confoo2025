@@ -8,7 +8,7 @@
 
 Below you will find the slides of most presentations given at ConFoo 2025.
 
-Speakers: [Add your slides and demos](CONTRIBUTING.md).
+**Speakers: Please read the contribution guidelines --> [Add your slides and demos](CONTRIBUTING.md)**
 
 ## February 26
 
@@ -52,6 +52,8 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | OAuth and trustworthy AI agents                            | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
+
+| [Are you sure your access tokens are really secure?](https://confoo.ca/en/2025/session/are-you-sure-your-access-tokens-are-really-secure) | Wesley Cabus | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
 | Database Performance Data Engineers | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 
 
@@ -66,3 +68,5 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
+| [DooM# - Blasting demons using C# without the unsafe keyword](https://confoo.ca/en/2025/session/doom-blasting-demons-using-c-without-the-unsafe-keyword) | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
+
