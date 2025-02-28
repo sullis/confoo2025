@@ -47,6 +47,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 | Ça bouge du côté des animations CSS | Raphaël Goetter | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
 | OAuth and trustworthy AI agents | Andrew Lavers | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill | Gerard Gallant | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
+| Advanced Error Handling with Event-Driven Architecture | Mario Bittencourt | [Slides (PDF)](27-02-2025/advanced_error_handling_with_event_driven_architecture-mario_bittencourt.pdf) |
 
 ## February 28
 
