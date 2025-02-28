@@ -38,6 +38,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Let’s Create a GitHub Copilot Extension                  | Nick Taylor                  | [Slides (PDF)](2025-02-26/Lets_Build_a_Copilot_Extension-Nick_Taylor.pdf) |
 | Why HTML Forms Still Rule the Web                        | Nick Taylor                  | [Slides (PDF)](2025-02-26/Why_HTML_Forms_Still_Rule_the_Web-Nick_Taylor.pdf) |
 | Retrieval Augmented Generation in PHP                    | Michal Zarnecki              | [Slides (PDF)](26-02-2025/Retrieval_Augmented_Generation_in_PHP-Michal_Zarnecki.pdf) |
+| Testing AI Applications - A Whole New Ballgame           | Adam Englander               | [Slides (PDF)](26-02-2025/Testing_AI_Applications_A_Whole_New_Ballgame-Adam_Englander.pdf)|
 
 ## February 27
 
@@ -54,15 +55,15 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | OAuth and trustworthy AI agents                            | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
-| [Are you sure your access tokens are really secure?](https://confoo.ca/en/2025/session/are-you-sure-your-access-tokens-are-really-secure) | Wesley Cabus | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
+| Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
 
 ## February 28
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf) / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
-| Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
+| Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 | Replace complex business logic with machine learning models | Michal Zarnecki | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf) |
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
