@@ -29,7 +29,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Don't use JavaScript for that, use HTML and CSS!         | Kilian Valkhof               | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)                                                                                                                       
 | Functional Domain Modeling in TypeScript                 | Nicolas Carlo                | [Slides (PDF)](26-02-2025/Functional_Domain_Modeling_in_TypeScript-Nicolas_Carlo.pdf)                                                                                                            |
 | Abstract Syntax Tree                                     | Thibault Friedrich           | [Slides (PDF)](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip)                                                                  |
-| Learning in production (or why Apollo 11 nearly failed)  | Michiel Rook                 | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-26/Learning_In_Production-Michiel_Rook.pdf)                                                                                    |
+| Learning in production (or why Apollo 11 nearly failed)  | Michiel Rook                 | [Slides (PDF)](2025-02-26/Learning_In_Production-Michiel_Rook.pdf)                                                                                    |
 | Finite State Machines Made Easy                          | Marco Ippolito               | [Slides (PDF)](26-02-2025/Finite_State_Machines_Made_Easy-Marco_Ippolito.pdf)                                                                                                                    |
 | Local-First Web Development With the Help of WebAssembly | Gerard Gallant               | [Slides (PDF)](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.pdf), [code](26-02-2025/local_first_web_development_with_the_help_of_webassembly-gerard_gallant.zip) |
 | Securing the JavaScript Ecosystem with Reproducibility   | Darcy Clarke                 | [Slides (PDF)](26-02-2025/Securing_the_JavaScript_Ecosystem_with_Reproducibility-Darcy_Clarke.pdf)                                                                                               |
@@ -37,6 +37,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Git-Fu Development                                       | Sebastian Feldmann           | [Slides (PDF)](26-02-2025/Git-Fu_Development-Sebastian_Feldmann.pdf)                                                                                                                             |
 | Let’s Create a GitHub Copilot Extension                  | Nick Taylor                  | [Slides (PDF)](2025-02-26/Lets_Build_a_Copilot_Extension-Nick_Taylor.pdf) |
 | Why HTML Forms Still Rule the Web                        | Nick Taylor                  | [Slides (PDF)](2025-02-26/Why_HTML_Forms_Still_Rule_the_Web-Nick_Taylor.pdf) |
+| Retrieval Augmented Generation in PHP                    | Michal Zarnecki              | [Slides (PDF)](26-02-2025/Retrieval_Augmented_Generation_in_PHP-Michal_Zarnecki.pdf) |
 
 ## February 27
 
@@ -62,9 +63,9 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
 | Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
+| Replace complex business logic with machine learning models | Michal Zarnecki | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf) |
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
 | DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
-
