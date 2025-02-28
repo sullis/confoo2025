@@ -57,6 +57,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
 | Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
 | The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
+| Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 
 ## February 28
 
@@ -71,3 +72,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
 | DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
+| Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
