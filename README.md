@@ -30,6 +30,7 @@ Speakers: [Add your slides and demos](CONTRIBUTING.md).
 |--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
 Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+| Entity Framework (Core) Unchained | Dan Mallott | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 |--------------------| --------------- | ---------                                                                                                                                      |
 
 
@@ -38,6 +39,8 @@ Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slide
 |--------------------|---------------|---------|
 | Node.js What's new and what's next | Michael Dawson | [slides](https://github.com/confooca/2025/blob/main/28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) ||--------------------|---------------|---------|
+| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
+| Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
+|--------------------|---------------|---------|
 
 
