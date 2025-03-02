@@ -40,6 +40,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Retrieval Augmented Generation in PHP                    | Michal Zarnecki              | [Slides (PDF)](26-02-2025/Retrieval_Augmented_Generation_in_PHP-Michal_Zarnecki.pdf) |
 | Testing AI Applications - A Whole New Ballgame           | Adam Englander               | [Slides (PDF)](26-02-2025/Testing_AI_Applications_A_Whole_New_Ballgame-Adam_Englander.pdf)|
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
+| What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 
 
 ## February 27
@@ -63,6 +64,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Database Performance Data Engineers                        | Peter Zaitsev       | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 | Python, Safe & Sound!                                      | Marcus Boerger      | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
 | Paths Unseen: Leadership Lessons from Middle Earth         | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](27-02-2025/Leadership_Lessons_from_Middle_Earth-Garth_Henson.pdf) |
+| Life as an Adult: What's New in React 19                   | Christian Wenz      | [Slides (PDF)](27-02-2025/what's_new_in_react_19-christian_wenz.pdf)  |
 
 ## February 28
 
