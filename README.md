@@ -83,3 +83,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
+| Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
