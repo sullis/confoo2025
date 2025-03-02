@@ -43,23 +43,23 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 ## February 27
 
 
-| Presentation Title                                          | Speaker Name        | Content |
-|-------------------------------------------------------------|---------------------|---------|
-| Secure DevOps: Automated Mobile App Security Scanning       | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
-| Core Web Vitals and their effect on User Experience         | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
-| The Path to Native TypeScript                               | Marco Ippolito      | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
-| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖  | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
-| 6 Safe Refactorings for Untested Legacy Code                | Nicolas Carlo       | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
-| From Idea to Impact: Building RAG Beyond POC                | Maria Khalusova     | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
-| Netty                                                       | Sean Sullivan       | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
-| Ça bouge du côté des animations CSS                         | Raphaël Goetter     | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
-| OAuth and trustworthy AI agents                             | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
-| Using WebAssembly in a Web Component as a Polyfill          | Gerard Gallant      | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
-| Commit Like a Pirate                                        | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
-| Are you sure your access tokens are really secure?          | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
-| The hidden dance of complexity                              | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
-| Entity Framework (Core) Unchained                           | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
-| Database Performance Data Engineers                         | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
+| Presentation Title                                         | Speaker Name        | Content |
+|------------------------------------------------------------|---------------------|---------|
+| Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
+| Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
+| The Path to Native TypeScript                              | Marco Ippolito      | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
+| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖    | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
+| 6 Safe Refactorings for Untested Legacy Code               | Nicolas Carlo       | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
+| From Idea to Impact: Building RAG Beyond POC               | Maria Khalusova     | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
+| Netty                                                      | Sean Sullivan       | [slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
+| Ça bouge du côté des animations CSS                        | Raphaël Goetter     | [slides](27-02-2025/Animations_CSS-raphael_goetter.pdf) |
+| OAuth and trustworthy AI agents                            | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
+| Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [slides](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
+| Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
+| Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
+| The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
+| Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
+| Database Performance Data Engineers | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 | Python, Safe & Sound!                                       | Marcus Boerger | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf) |
 | Adopting new design and design systems into legacy products | Cheryl Leung        | [Slides (PDF)](27-02-2025/adopting_new_design_into_legacy_products-cheryl_leung.pdf)|
 
