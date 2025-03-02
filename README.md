@@ -50,7 +50,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
 | The Path to Native TypeScript                              | Marco Ippolito      | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
-| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖    | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
+| 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖     | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
 | 6 Safe Refactorings for Untested Legacy Code               | Nicolas Carlo       | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
 | From Idea to Impact: Building RAG Beyond POC               | Maria Khalusova     | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf) |
 | Netty                                                      | Sean Sullivan       | [Slides (PDF)](27-02-2025/netty_sean_sullivan.pdf)|
@@ -65,19 +65,21 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Python, Safe & Sound!                                      | Marcus Boerger      | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
 | Paths Unseen: Leadership Lessons from Middle Earth         | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](27-02-2025/Leadership_Lessons_from_Middle_Earth-Garth_Henson.pdf) |
 | Life as an Adult: What's New in React 19                   | Christian Wenz      | [Slides (PDF)](27-02-2025/what's_new_in_react_19-christian_wenz.pdf)  |
+| CQRS/MediatR et minimal API - Une approche pragmatique     | Erik Beaulieu       | [Slides (PDF)](27-02-2025/CQRS-MediatR_et_minimal_API_Une_approche_pramatique-Erik_Beaulieu.pdf)|
 
 ## February 28
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
-| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf) / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Intro to OpenTelemetry for Developers | AL Rodriguez | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
-| Node.js What's new and what's next | Michael Dawson | [slides](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
-| Replace complex business logic with machine learning models | Michal Zarnecki | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf) |
-| XAML Who? Debuggable Cross-Platform UI with C# for Markup | Lester Botello | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️ | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
-| (not) Alone in the Dark Mode       | Raphaël Goetter | [slides](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
-| The Statistics of Anomaly Detection | Philip Tellis | [slides](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
-| DooM# - Blasting demons using C# without the unsafe keyword | Wesley Cabus | [Slides](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
-| Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
-| So, C++ is unsafe! | Marcus Boerger | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup    | Lester Botello      | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf) / [Code](https://github.com/lesterbotello/ConFoo2025)
+| Intro to OpenTelemetry for Developers                        | AL Rodriguez        | [Slides (PDF)](28-02-2025/Intro_to_OpenTelemetry_for_Developers-AL_Rodriguez.pdf) |
+| Node.js What's new and what's next                           | Michael Dawson      | [Slides (PDF)](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
+| Replace complex business logic with machine learning models  | Michal Zarnecki     | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf) |
+| XAML Who? Debuggable Cross-Platform UI with C# for Markup    | Lester Botello      | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
+| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️               | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
+| (not) Alone in the Dark Mode                                 | Raphaël Goetter     | [Slides (PDF)](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
+| The Statistics of Anomaly Detection                          | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
+| DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
+| Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
+| So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+| The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
