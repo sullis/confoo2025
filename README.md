@@ -71,6 +71,8 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | 10 strategies to keep your cloud costs under control       | Tidjani Belmansour  | [slides (PDF)](27-02-2025/10_strategies_to_control_your_cloud_costs-Tidjani_Belmansour.pdf)|
 | Futur leader ou expert chevronné: Comment choisir sa voie? | Lamia Rarrbo        | [slides (PDF)](27-02-2025/futur_leader_ou_expert_chevronne-Lamia_Rarrbo.pdf)|
 | Oh Python! Where Did We Go Wrong?                          | Greg Ward           | [Slides (PDF)](27-02-2025/oh_python-greg_ward.pdf)                                                 |
+| Building Super Agents with Micro-Agent Orchestration       | Carl Lapierre       | [Slides (PDF)](27-02-2025/building_super_agents_with_micro_agent_orchestration-carl_lapierre.pdf) |
+
 
 ## February 28
 
@@ -90,3 +92,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
+| Exploring Advanced Patterns in Retrieval Augmented Generation | Carl Lapierre       | [Slides (PDF)](28-02-2025/exploring_advanced_patterns_in_retrieval_augmented_generation-carl_lapierre.pdf) |
