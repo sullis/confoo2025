@@ -50,6 +50,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 |------------------------------------------------------------|---------------------|---------|
 | Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
+| RAG vs Fine-tuning: which one is better for your AI project? | Shao Hang He        | [Slides (PDF)](27-02-2025/RAG_vs_Fine-tuning_shaohanghe.pdf) |
 | The Path to Native TypeScript                              | Marco Ippolito      | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
 | 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖     | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
 | 6 Safe Refactorings for Untested Legacy Code               | Nicolas Carlo       | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
