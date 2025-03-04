@@ -90,3 +90,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
+| Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
