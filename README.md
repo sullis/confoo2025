@@ -100,6 +100,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️             | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | (not) Alone in the Dark Mode                                 | Raphaël Goetter     | [Slides (PDF)](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection                          | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
+| The CLI awakens - Build your Jedi-grade developer toolkit | Marc-Antoine Aubé | [slides](https://speakerdeck.com/marcaube/the-cli-awakens) |
 | DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
 | AI and the SDLC/DevOps Conundrum                             | Adam Englander | [Slides (PDF)](28-02-2025/AI_and_the_SDLC_DevOps_Conundrum-Adam_Englander.pdf) |
