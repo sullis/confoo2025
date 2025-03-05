@@ -26,7 +26,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | GitHub Actions                                           | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                                                                                                      |
 | Vector Search in Modern Databases                        | Peter Zaitsev                | [Slides (PDF)](26-02-2025/Vector_search_in_modern_databases-Peter_Zaitsev.pdf)                                                                                                                   |
 | Accessible Web Testing with Cypress and Axe Core         | Vitaly Skadorva              | [Slides (PDF)](26-02-2025/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf)                                                                                                  |
-| Don't use JavaScript for that, use HTML and CSS!         | Kilian Valkhof               | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)                                                                                                                       
+| Don't use JavaScript for that, use HTML and CSS!         | Kilian Valkhof               | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)
 | Functional Domain Modeling in TypeScript                 | Nicolas Carlo                | [Slides (PDF)](26-02-2025/Functional_Domain_Modeling_in_TypeScript-Nicolas_Carlo.pdf)                                                                                                            |
 | Abstract Syntax Tree                                     | Thibault Friedrich           | [Slides (PDF)](26-02-2025/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip)                                                                  |
 | Learning in production (or why Apollo 11 nearly failed)  | Michiel Rook                 | [Slides (PDF)](26-02-2025/Learning_In_Production-Michiel_Rook.pdf)                                                                                    |
@@ -42,6 +42,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
+| What's New in PHP 8.4                                    | Derick Rethans               | [Slides (PDF)](26-02-2025/WhatsNewsInPHP8.4-Derick_Rethans.pdf) |
 | Zero Downtime Migration of our Distributed Task Queue    | Edmund Lam                   | [Slides (PDF)](26-02-2025/zero_downtime_migration_task_queue-Edmund_Lam.pdf)  |
 | A Better Way To Review Mutable Git History               | Jordi Gutiérrez Hermoso      | [Slides (PDF)](26-02-2025/a_better_way_to_review_mutable_git_history-jordi_gutiérrez_hermoso.pdf) |
 | Do you trust profilers? I once did too                   | Johannes Bechberger          | [Slides (PDF)](26-02-2025/profilers-Johannes_Bechberger.pdf) |
@@ -75,6 +76,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | 10 strategies to keep your cloud costs under control       | Tidjani Belmansour  | [slides (PDF)](27-02-2025/10_strategies_to_control_your_cloud_costs-Tidjani_Belmansour.pdf)|
 | Futur leader ou expert chevronné: Comment choisir sa voie? | Lamia Rarrbo        | [slides (PDF)](27-02-2025/futur_leader_ou_expert_chevronne-Lamia_Rarrbo.pdf)|
 | Oh Python! Where Did We Go Wrong?                          | Greg Ward           | [Slides (PDF)](27-02-2025/oh_python-greg_ward.pdf)                                                 |
+| Better Debugging with Xdebug                               | Derick Rethans      | [Slides (PDF)](27-02-2025/BetterDebuggingWithXdebug-Derick_Rethans.pdf) |
 | Joys Of Packer: Same Code, Multiple Clouds                 | Jordi Gutiérrez Hermoso | [Slides (PDF)](27-02-2025/joys_of_packer_same_code_multiple_clouds-jordi_gutiérrez_hermoso.pdf) |
 
 ## February 28
