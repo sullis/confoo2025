@@ -106,6 +106,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
+| Implementing Shift-Left with Cypress Component Testing       | Vitaly Skadorva     | [Slides (PDF)](28-02-2025/Implementing_Shift_Left_with_Cypress_Component_Testing-Vitaly_Skadorva.pdf) |
 | Consommation d'API REST moderne                              | Vincent Biret       | [Slides (PDF)](28-02-2025/Vincent%20Biret%20-%20API%20REST%20dev%20moderne.pdf)               |
 | I used to hate PHP, then I got good at it                    | Sébastien Ballangé  | [Slides (PDF)](28-02-2025/I_used_to_hate_PHP_and_then_I_got_good_at_it-sebastien_ballange.pdf)               |
 | Exploring Advanced Patterns in Retrieval Augmented Generation | Carl Lapierre       | [Slides (PDF)](28-02-2025/exploring_advanced_patterns_in_retrieval_augmented_generation-carl_lapierre.pdf) |
