@@ -104,8 +104,8 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
+| I used to hate PHP, then I got good at it                    | Sébastien Ballangé  | [Slides (PDF)](28-02-2025/I_used_to_hate_PHP_and_then_I_got_good_at_it-sebastien_ballange.pdf)               |
 | Exploring Advanced Patterns in Retrieval Augmented Generation | Carl Lapierre       | [Slides (PDF)](28-02-2025/exploring_advanced_patterns_in_retrieval_augmented_generation-carl_lapierre.pdf) |
 | Front to Back, Never Back to Front                           | Adam L Barrett      | [Slides (PDF)](28-02-2025/front_to_back_never_back_to_front-Adam_L_Barrett.pdf)        |
 | Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
 | Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
-
