@@ -65,9 +65,10 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | OAuth and trustworthy AI agents                            | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [Slides (PDF)](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
+| Ethics In Software Engineering - Should We Care?           | Iancho Dimitrov    | [Slides (PDF)](27-02-2025/Ethics%20in%20Software%20Engineering%20-%20Iancho%20Dimitrov.pdf) |
+| Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
+| The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
 | Advanced Error Handling with Event-Driven Architecture     | Mario Bittencourt   | [Slides (PDF)](27-02-2025/advanced_error_handling_with_event_driven_architecture-mario_bittencourt.pdf) |
-| Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides (PDF)](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
-| The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](27-02-2025/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
 | Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 | Database Performance Data Engineers                        | Peter Zaitsev       | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 | Python, Safe & Sound!                                      | Marcus Boerger      | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
@@ -96,6 +97,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | The Statistics of Anomaly Detection                          | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
 | DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
+| The Good, The Bad and The Ugly... Diagrams          | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
