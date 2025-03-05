@@ -42,6 +42,8 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
+| Do you trust profilers? I once did too                   | Johannes Bechberger          | [Slides (PDF)](26-02-2025/profilers-Johannes_Bechberger.pdf) |
+| Let’s create a Python Debugger together                  | Johannes Bechberger          | [Slides (PDF)](26-02-2025/python_debuggers-Johannes_Bechberger.pdf) / [Code](https://github.com/parttimenerd/python-dbg/)
 
 
 ## February 27
