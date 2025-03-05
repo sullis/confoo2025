@@ -50,9 +50,11 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 
 
 ## February 27
-
-| Presentation Title                                         | Speaker Name        | Content |
-|------------------------------------------------------------|---------------------|---------|
+| Presentation Title | Speaker Name    | Content                                                                                                                                        |
+|--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
+Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/Vulnerability%20Detection%20with%20CodeQL-%20Confoo%202025.pdf) 
 | Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
 | RAG vs Fine-tuning: which one is better for your AI project? | Shao Hang He        | [Slides (PDF)](27-02-2025/RAG_vs_Fine-tuning_shaohanghe.pdf) |
