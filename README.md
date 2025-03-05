@@ -89,6 +89,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 
 ## February 28
 
+
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup    | Lester Botello      | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf) / [Code](https://github.com/lesterbotello/ConFoo2025)
@@ -96,12 +97,13 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Node.js What's new and what's next                           | Michael Dawson      | [Slides (PDF)](28-02-2025/Nodejs_whats_new_and_whats_next-Michael_Dawson.pdf)
 | Replace complex business logic with machine learning models  | Michal Zarnecki     | [Slides (PDF)](28-02-2025/Replace_complex_business_logic_with_machine_learning_models-Michal_Zarnecki.pdf) |
 | XAML Who? Debuggable Cross-Platform UI with C# for Markup    | Lester Botello      | [Slides (PDF)](28-02-2025/LesterB%20-%20Confoo2025%20-%20XAML%20Who.pdf)  / [Code](https://github.com/lesterbotello/ConFoo2025)
-| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️               | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
+| Picocli, mets du Java dans ton terminal ! 🧑‍💻 ☕️             | Stéphane Philippart | [Slides (PDF)](28-02-2025/Picocli_mets_du_Java_dans_ton_terminal-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/jarvis)|
 | (not) Alone in the Dark Mode                                 | Raphaël Goetter     | [Slides (PDF)](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection                          | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
 | DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
-| The Good, The Bad and The Ugly... Diagrams          | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
+| AI and the SDLC/DevOps Conundrum                             | Adam Englander | [Slides (PDF)](28-02-2025/AI_and_the_SDLC_DevOps_Conundrum-Adam_Englander.pdf) |
+| The Good, The Bad and The Ugly... Diagrams                   | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
