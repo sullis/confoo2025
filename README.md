@@ -74,6 +74,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 | Database Performance Data Engineers                        | Peter Zaitsev       | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 | Python, Safe & Sound!                                      | Marcus Boerger      | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
+| Deploying at scale with a single click                     | Wim Godden          | [Slides (PDF)](2027-02-2025/Deploy_at_scale_with_a_single_click-Wim_Godden.pdf) |
 | Application Observability like you've never heard before   | Jonatan Ivanov      | [Slides (PDF)](27-02-2025/application_observability_like_you_have_never_heard_before-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/teahouse/) |
 | Paths Unseen: Leadership Lessons from Middle Earth         | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](27-02-2025/Leadership_Lessons_from_Middle_Earth-Garth_Henson.pdf) |
 | Life as an Adult: What's New in React 19                   | Christian Wenz      | [Slides (PDF)](27-02-2025/what's_new_in_react_19-christian_wenz.pdf)  |
@@ -86,6 +87,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | JS Signals                                                 | Adam L Barrett      | [Slides (PDF)](27-02-2025/js_signals-Adam_L_Barrett.pdf)                                           |
 | Better Debugging with Xdebug                               | Derick Rethans      | [Slides (PDF)](27-02-2025/BetterDebuggingWithXdebug-Derick_Rethans.pdf) |
 | Joys Of Packer: Same Code, Multiple Clouds                 | Jordi Gutiérrez Hermoso | [Slides (PDF)](27-02-2025/joys_of_packer_same_code_multiple_clouds-jordi_gutiérrez_hermoso.pdf) |
+
 
 
 ## February 28
@@ -108,6 +110,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | The Good, The Bad and The Ugly... Diagrams                   | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
 | A Million Ways to Fail in Production                         | Jonatan Ivanov      | [Slides (PDF)](28-02-2025/a_million_ways_to_fail_in_production-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/resourceater/) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+| Events, projections, queues and more                         | Wim Godden          | [Slides (PDF)](2028-02-2025/Events_queues_projections_and_more-Wim_Godden.pdf) |
 | AI Powered Business Tools                                    | Pierre-Luc Parent | [Slides (PDF)](28-02-2025/ai_powered_business_tools-pierre-luc_parent.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
