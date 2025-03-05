@@ -26,7 +26,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | GitHub Actions                                           | Sean Sullivan                | [Slides (PDF)](26-02-2025/github_actions_sean_sullivan.pdf)                                                                                                                                      |
 | Vector Search in Modern Databases                        | Peter Zaitsev                | [Slides (PDF)](26-02-2025/Vector_search_in_modern_databases-Peter_Zaitsev.pdf)                                                                                                                   |
 | Accessible Web Testing with Cypress and Axe Core         | Vitaly Skadorva              | [Slides (PDF)](26-02-2025/Accessible_Web_Testing_with_Cypress_and_Axe_Core-Vitaly_Skadorva.pdf)                                                                                                  |
-| Don't use JavaScript for that, use HTML and CSS!         | Kilian Valkhof               | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)                                                                                                                       
+| Don't use JavaScript for that, use HTML and CSS!         | Kilian Valkhof               | [Slides (PDF)](26-02-2025/dont_use_javascript_for_that-kilian_valkhof.pdf)
 | Functional Domain Modeling in TypeScript                 | Nicolas Carlo                | [Slides (PDF)](26-02-2025/Functional_Domain_Modeling_in_TypeScript-Nicolas_Carlo.pdf)                                                                                                            |
 | Abstract Syntax Tree                                     | Thibault Friedrich           | [Slides (PDF)](26-02-2025/abstract_syntax_tree-Thibault_Friedrich.pdf) [demo](2025-02-26/abstract_syntax_tree-Thibault_Friedrich.zip)                                                                  |
 | Learning in production (or why Apollo 11 nearly failed)  | Michiel Rook                 | [Slides (PDF)](26-02-2025/Learning_In_Production-Michiel_Rook.pdf)                                                                                    |
@@ -42,14 +42,22 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
+| What's New in PHP 8.4                                    | Derick Rethans               | [Slides (PDF)](26-02-2025/WhatsNewsInPHP8.4-Derick_Rethans.pdf) |
+| Zero Downtime Migration of our Distributed Task Queue    | Edmund Lam                   | [Slides (PDF)](26-02-2025/zero_downtime_migration_task_queue-Edmund_Lam.pdf)  |
+| A Better Way To Review Mutable Git History               | Jordi Gutiérrez Hermoso      | [Slides (PDF)](26-02-2025/a_better_way_to_review_mutable_git_history-jordi_gutiérrez_hermoso.pdf) |
+| Do you trust profilers? I once did too                   | Johannes Bechberger          | [Slides (PDF)](26-02-2025/profilers-Johannes_Bechberger.pdf) |
+| Let’s create a Python Debugger together                  | Johannes Bechberger          | [Slides (PDF)](26-02-2025/python_debuggers-Johannes_Bechberger.pdf) / [Code](https://github.com/parttimenerd/python-dbg/)
 
 
 ## February 27
-
-| Presentation Title                                         | Speaker Name        | Content |
-|------------------------------------------------------------|---------------------|---------|
+| Presentation Title | Speaker Name    | Content                                                                                                                                        |
+|--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
+Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/Vulnerability%20Detection%20with%20CodeQL-%20Confoo%202025.pdf) 
 | Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
+| RAG vs Fine-tuning: which one is better for your AI project? | Shao Hang He        | [Slides (PDF)](27-02-2025/RAG_vs_Fine-tuning_shaohanghe.pdf) |
 | The Path to Native TypeScript                              | Marco Ippolito      | [Slides (PDF)](27-02-2025/The_Path_to_Native_TypeScript-Marco_Ippolito.pdf) |
 | 👨‍💻 Utiliser un LLM aussi simplement qu'une librairie 🤖     | Stéphane Philippart | [Slides (PDF)](27-02-2025/Utiliser_un_LLM_aussi_simplement_qu_une_librairie-stephane_philippart.pdf)  / [Code](https://github.com/philippart-s/ai-as-lib)|
 | 6 Safe Refactorings for Untested Legacy Code               | Nicolas Carlo       | [Slides (PDF)](27-02-2025/6_Safe_Refactorings_for_Untested_Legacy_Code-Nicolas_Carlo.pdf) |
@@ -59,9 +67,10 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | OAuth and trustworthy AI agents                            | Andrew Lavers       | [Slides (PDF)](27-02-2025/oauth_and_trustworthy_ai_agents-andrew_lavers.pdf) |
 | Using WebAssembly in a Web Component as a Polyfill         | Gerard Gallant      | [Slides (PDF)](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.pdf), [code](27-02-2025/using_webassembly_in_a_web_component_as_a_polyfill-gerard_gallant.zip) |
 | Commit Like a Pirate                                       | Sebastian Feldmann  | [Slides (PDF)](27-02-2025/Commit_Like_A_Pirate-Sebastian_Feldmann.pdf) / [Code](https://github.com/captainhookphp/captainhook)
+| Ethics In Software Engineering - Should We Care?           | Iancho Dimitrov    | [Slides (PDF)](27-02-2025/Ethics%20in%20Software%20Engineering%20-%20Iancho%20Dimitrov.pdf) |
+| Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
+| The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](https://github.com/confooca/2025/blob/main/2025-02-27/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
 | Advanced Error Handling with Event-Driven Architecture     | Mario Bittencourt   | [Slides (PDF)](27-02-2025/advanced_error_handling_with_event_driven_architecture-mario_bittencourt.pdf) |
-| Are you sure your access tokens are really secure?         | Wesley Cabus        | [Slides (PDF)](27-02-2025/Are_you_sure_your_access_tokens_are_really_secure-Wesley_Cabus.pdf) |
-| The hidden dance of complexity                             | Michiel Rook        | [Slides (PDF)](27-02-2025/The_hidden_dance_of_complexity-Michiel_Rook.pdf) |
 | Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 | Database Performance Data Engineers                        | Peter Zaitsev       | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 | Python, Safe & Sound!                                      | Marcus Boerger      | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
@@ -71,6 +80,12 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | 10 strategies to keep your cloud costs under control       | Tidjani Belmansour  | [slides (PDF)](27-02-2025/10_strategies_to_control_your_cloud_costs-Tidjani_Belmansour.pdf)|
 | Futur leader ou expert chevronné: Comment choisir sa voie? | Lamia Rarrbo        | [slides (PDF)](27-02-2025/futur_leader_ou_expert_chevronne-Lamia_Rarrbo.pdf)|
 | Oh Python! Where Did We Go Wrong?                          | Greg Ward           | [Slides (PDF)](27-02-2025/oh_python-greg_ward.pdf)                                                 |
+| Building Super Agents with Micro-Agent Orchestration       | Carl Lapierre       | [Slides (PDF)](27-02-2025/building_super_agents_with_micro_agent_orchestration-carl_lapierre.pdf) |
+| JS Signals                                                 | Adam L Barrett      | [Slides (PDF)](27-02-2025/js_signals-Adam_L_Barrett.pdf)                                           |
+| Better Debugging with Xdebug                               | Derick Rethans      | [Slides (PDF)](27-02-2025/BetterDebuggingWithXdebug-Derick_Rethans.pdf) |
+| Joys Of Packer: Same Code, Multiple Clouds                 | Jordi Gutiérrez Hermoso | [Slides (PDF)](27-02-2025/joys_of_packer_same_code_multiple_clouds-jordi_gutiérrez_hermoso.pdf) |
+
+
 
 ## February 28
 
@@ -86,9 +101,16 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | The Statistics of Anomaly Detection                          | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
 | DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
+| The Good, The Bad and The Ugly... Diagrams          | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
 | Implementing Shift-Left with Cypress Component Testing       | Vitaly Skadorva     | [Slides (PDF)](28-02-2025/Implementing_Shift_Left_with_Cypress_Component_Testing-Vitaly_Skadorva.pdf) |
-|--------------------|---------------|---------|
+| Consommation d'API REST moderne                              | Vincent Biret       | [Slides (PDF)](28-02-2025/Vincent%20Biret%20-%20API%20REST%20dev%20moderne.pdf)               |
+| I used to hate PHP, then I got good at it                    | Sébastien Ballangé  | [Slides (PDF)](28-02-2025/I_used_to_hate_PHP_and_then_I_got_good_at_it-sebastien_ballange.pdf)               |
+| Exploring Advanced Patterns in Retrieval Augmented Generation | Carl Lapierre       | [Slides (PDF)](28-02-2025/exploring_advanced_patterns_in_retrieval_augmented_generation-carl_lapierre.pdf) |
+| Front to Back, Never Back to Front                           | Adam L Barrett      | [Slides (PDF)](28-02-2025/front_to_back_never_back_to_front-Adam_L_Barrett.pdf)        |
+| Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
+| Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
+
