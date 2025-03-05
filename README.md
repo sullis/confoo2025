@@ -106,6 +106,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | AI and the SDLC/DevOps Conundrum                             | Adam Englander | [Slides (PDF)](28-02-2025/AI_and_the_SDLC_DevOps_Conundrum-Adam_Englander.pdf) |
 | The Good, The Bad and The Ugly... Diagrams                   | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+| AI Powered Business Tools                                    | Pierre-Luc Parent | [Slides (PDF)](28-02-2025/ai_powered_business_tools-pierre-luc_parent.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
