@@ -42,6 +42,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
+| Zero Downtime Migration of our Distributed Task Queue    | Edmund Lam                   | [Slides (PDF)](26-02-2025/zero_downtime_migration_task_queue-Edmund_Lam.pdf)  |
 | A Better Way To Review Mutable Git History               | Jordi Gutiérrez Hermoso      | [Slides (PDF)](26-02-2025/a_better_way_to_review_mutable_git_history-jordi_gutiérrez_hermoso.pdf) |
 | Do you trust profilers? I once did too                   | Johannes Bechberger          | [Slides (PDF)](26-02-2025/profilers-Johannes_Bechberger.pdf) |
 | Let’s create a Python Debugger together                  | Johannes Bechberger          | [Slides (PDF)](26-02-2025/python_debuggers-Johannes_Bechberger.pdf) / [Code](https://github.com/parttimenerd/python-dbg/)
@@ -94,3 +95,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
 | Ktor: le framework 100% Kotlin                               | Arthur veys         | [Slides (PDF)](28-02-2025/Ktor_framework_kotlin-Arthur_Veys.pdf) / [Code](https://github.com/Aveys/pokedex-ktor)                                                                 |
 | Stop Using (quite so many) Mock Objects                      | Greg Ward           | [Slides (PDF)](28-02-2025/stop_using_mocks-greg_ward.pdf)               |
+| Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
