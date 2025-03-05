@@ -80,11 +80,11 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | 10 strategies to keep your cloud costs under control       | Tidjani Belmansour  | [slides (PDF)](27-02-2025/10_strategies_to_control_your_cloud_costs-Tidjani_Belmansour.pdf)|
 | Futur leader ou expert chevronné: Comment choisir sa voie? | Lamia Rarrbo        | [slides (PDF)](27-02-2025/futur_leader_ou_expert_chevronne-Lamia_Rarrbo.pdf)|
 | Oh Python! Where Did We Go Wrong?                          | Greg Ward           | [Slides (PDF)](27-02-2025/oh_python-greg_ward.pdf)                                                 |
+| Database Performance Data Engineers | Peter Zaitsev | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf) |
 | Building Super Agents with Micro-Agent Orchestration       | Carl Lapierre       | [Slides (PDF)](27-02-2025/building_super_agents_with_micro_agent_orchestration-carl_lapierre.pdf) |
 | JS Signals                                                 | Adam L Barrett      | [Slides (PDF)](27-02-2025/js_signals-Adam_L_Barrett.pdf)                                           |
 | Better Debugging with Xdebug                               | Derick Rethans      | [Slides (PDF)](27-02-2025/BetterDebuggingWithXdebug-Derick_Rethans.pdf) |
 | Joys Of Packer: Same Code, Multiple Clouds                 | Jordi Gutiérrez Hermoso | [Slides (PDF)](27-02-2025/joys_of_packer_same_code_multiple_clouds-jordi_gutiérrez_hermoso.pdf) |
-
 
 
 ## February 28
