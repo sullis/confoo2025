@@ -39,6 +39,10 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Why HTML Forms Still Rule the Web                        | Nick Taylor                  | [Slides (PDF)](26-02-2025/Why_HTML_Forms_Still_Rule_the_Web-Nick_Taylor.pdf) |
 | Retrieval Augmented Generation in PHP                    | Michal Zarnecki              | [Slides (PDF)](26-02-2025/Retrieval_Augmented_Generation_in_PHP-Michal_Zarnecki.pdf) |
 | Testing AI Applications - A Whole New Ballgame           | Adam Englander               | [Slides (PDF)](26-02-2025/Testing_AI_Applications_A_Whole_New_Ballgame-Adam_Englander.pdf)|
+| Q-LEARNING… DE LA THÉORIE À LA PRATIQUE                  | Ali Amine Ghazali            | [Slides (PDF)](26-02-2025/Q-Learning_Ali-Amine-Ghazali.pdf) |
+
+## February 27
+=======
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
@@ -47,14 +51,9 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | A Better Way To Review Mutable Git History               | Jordi Gutiérrez Hermoso      | [Slides (PDF)](26-02-2025/a_better_way_to_review_mutable_git_history-jordi_gutiérrez_hermoso.pdf) |
 | Do you trust profilers? I once did too                   | Johannes Bechberger          | [Slides (PDF)](26-02-2025/profilers-Johannes_Bechberger.pdf) |
 | Let’s create a Python Debugger together                  | Johannes Bechberger          | [Slides (PDF)](26-02-2025/python_debuggers-Johannes_Bechberger.pdf) / [Code](https://github.com/parttimenerd/python-dbg/)
-
-
-## February 27
-| Presentation Title | Speaker Name    | Content                                                                                                                                        |
-|--------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| From Idea to Impact: Building RAG Beyond POC | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
-Secure DevOps: Automated Mobile App Security Scanning | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
-Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/Vulnerability%20Detection%20with%20CodeQL-%20Confoo%202025.pdf) 
+| From Idea to Impact: Building RAG Beyond POC             | Maria Khalusova | [Slides (PDF)](27-02-2025/From_Idea_to_Impact_Building_RAG_Beyond_POC-Maria_Khalusova.pdf)|                                                     |
+| Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello  | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) 
+| Vulnerability Detection with CodeQL                        | Alexis Agahi  | [Slides (PDF)](27-02-2025/Vulnerability%20Detection%20with%20CodeQL-%20Confoo%202025.pdf) 
 | Secure DevOps: Automated Mobile App Security Scanning      | Lester Botello      | [Slides (PDF)](27-02-2025/LesterB%20-%20Confoo2025%20-%20Secure%20DevOps.pdf)  / [Code](https://github.com/nventive/FlutterApplicationTemplate) |
 | Core Web Vitals and their effect on User Experience        | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/core-web-vitals-and-their-effect-on-user-experience) |
 | RAG vs Fine-tuning: which one is better for your AI project? | Shao Hang He        | [Slides (PDF)](27-02-2025/RAG_vs_Fine-tuning_shaohanghe.pdf) |
@@ -112,6 +111,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | The Good, The Bad and The Ugly... Diagrams                   | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
 | A Million Ways to Fail in Production                         | Jonatan Ivanov      | [Slides (PDF)](28-02-2025/a_million_ways_to_fail_in_production-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/resourceater/) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
+|  MLOps est un mythe! Pipeline E2E de test, pack et versionner  |  Ali Amine Ghazali  | [Slides (PDF)](28-02-2025/MLOps_est_un_mythe-Ali-Amine-Ghazali.pdf) |
 | Lead Engineering Teams to Achieve Their Greatest Potential   | Cheryl Leung | [Slides (PDF)](28-02-2025/lead_engineering_teams_to_achieve_their_greatest_potential-cheryl_leung.pdf)|
 | Events, projections, queues and more                         | Wim Godden          | [Slides (PDF)](2028-02-2025/Events_queues_projections_and_more-Wim_Godden.pdf) |
 | AI Powered Business Tools                                    | Pierre-Luc Parent | [Slides (PDF)](28-02-2025/ai_powered_business_tools-pierre-luc_parent.pdf) |
@@ -125,4 +125,3 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Front to Back, Never Back to Front                           | Adam L Barrett      | [Slides (PDF)](28-02-2025/front_to_back_never_back_to_front-Adam_L_Barrett.pdf)        |
 | Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
 | Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
-
