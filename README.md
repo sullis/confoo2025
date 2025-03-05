@@ -42,6 +42,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
+| A Better Way To Review Mutable Git History               | Jordi Gutiérrez Hermoso      | [Slides (PDF)](26-02-2025/a_better_way_to_review_mutable_git_history-jordi_gutiérrez_hermoso.pdf) |
 
 
 ## February 27
@@ -71,6 +72,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | 10 strategies to keep your cloud costs under control       | Tidjani Belmansour  | [slides (PDF)](27-02-2025/10_strategies_to_control_your_cloud_costs-Tidjani_Belmansour.pdf)|
 | Futur leader ou expert chevronné: Comment choisir sa voie? | Lamia Rarrbo        | [slides (PDF)](27-02-2025/futur_leader_ou_expert_chevronne-Lamia_Rarrbo.pdf)|
 | Oh Python! Where Did We Go Wrong?                          | Greg Ward           | [Slides (PDF)](27-02-2025/oh_python-greg_ward.pdf)                                                 |
+| Joys Of Packer: Same Code, Multiple Clouds                 | Jordi Gutiérrez Hermoso | [Slides (PDF)](27-02-2025/joys_of_packer_same_code_multiple_clouds-jordi_gutiérrez_hermoso.pdf) |
 
 ## February 28
 
