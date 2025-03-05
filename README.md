@@ -74,6 +74,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Entity Framework (Core) Unchained                          | Dan Mallott         | [Slides (PDF)](27-02-2025/entity_framework_core_unchained-dan_mallott.pdf)|
 | Database Performance Data Engineers                        | Peter Zaitsev       | [Slides (PDF)](27-02-2025/Database_Performance_Data_Engineers-Peter_Zaitsev.pdf.pdf) |
 | Python, Safe & Sound!                                      | Marcus Boerger      | [Slides (PDF)](27-02-2025/2020250227_python_safe_and_sound.pdf)
+| Application Observability like you've never heard before   | Jonatan Ivanov      | [Slides (PDF)](27-02-2025/application_observability_like_you_have_never_heard_before-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/teahouse/) |
 | Paths Unseen: Leadership Lessons from Middle Earth         | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](27-02-2025/Leadership_Lessons_from_Middle_Earth-Garth_Henson.pdf) |
 | Life as an Adult: What's New in React 19                   | Christian Wenz      | [Slides (PDF)](27-02-2025/what's_new_in_react_19-christian_wenz.pdf)  |
 | CQRS/MediatR et minimal API - Une approche pragmatique     | Erik Beaulieu       | [Slides (PDF)](27-02-2025/CQRS-MediatR_et_minimal_API_Une_approche_pramatique-Erik_Beaulieu.pdf)|
@@ -105,6 +106,7 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
 | AI and the SDLC/DevOps Conundrum                             | Adam Englander | [Slides (PDF)](28-02-2025/AI_and_the_SDLC_DevOps_Conundrum-Adam_Englander.pdf) |
 | The Good, The Bad and The Ugly... Diagrams                   | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
+| A Million Ways to Fail in Production                         | Jonatan Ivanov      | [Slides (PDF)](28-02-2025/a_million_ways_to_fail_in_production-jonatan_ivanov.pdf) / [Code](https://github.com/jonatan-ivanov/resourceater/) |
 | So, C++ is unsafe!                                           | Marcus Boerger      | [slides (PDF)](28-02-2025/20250228_so_cpp_is_unsafe.pdf) |
 | AI Powered Business Tools                                    | Pierre-Luc Parent | [Slides (PDF)](28-02-2025/ai_powered_business_tools-pierre-luc_parent.pdf) |
 | The art of code review - Balancing People and Code           | Erik Beaulieu       | [Slides (PDF)](28-02-2025/The_art_of_code_review-Balancing_People_and_Code-Erik_Beaulieu.pdf)|
@@ -117,4 +119,3 @@ Vulnerability Detection with CodeQL | Alexis Agahi  | [Slides (PDF)](27-02-2025/
 | Front to Back, Never Back to Front                           | Adam L Barrett      | [Slides (PDF)](28-02-2025/front_to_back_never_back_to_front-Adam_L_Barrett.pdf)        |
 | Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
 | Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
-
