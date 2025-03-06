@@ -88,6 +88,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | JS Signals                                                 | Adam L Barrett      | [Slides (PDF)](27-02-2025/js_signals-Adam_L_Barrett.pdf)                                           |
 | Better Debugging with Xdebug                               | Derick Rethans      | [Slides (PDF)](27-02-2025/BetterDebuggingWithXdebug-Derick_Rethans.pdf) |
 | Joys Of Packer: Same Code, Multiple Clouds                 | Jordi Gutiérrez Hermoso | [Slides (PDF)](27-02-2025/joys_of_packer_same_code_multiple_clouds-jordi_gutiérrez_hermoso.pdf) |
+| Inside Mobile Frameworks                | [Mathieu Fillion](https://linkedin.com/in/matfillion) | [Slides (PDF)](27-02-2025/InsideMobileFrameworks-MathieuFillion.pdf) |
 
 
 
@@ -126,3 +127,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Front to Back, Never Back to Front                           | Adam L Barrett      | [Slides (PDF)](28-02-2025/front_to_back_never_back_to_front-Adam_L_Barrett.pdf)        |
 | Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
 | Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
+| Boosting your mobile app - Small details, Big impact         | [Mathieu Fillion](https://linkedin.com/in/matfillion) | [Slides (PDF)](28-02-2025/Small-details-big-impact-MathieuFillion.pdf) |
