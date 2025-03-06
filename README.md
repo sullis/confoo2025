@@ -42,7 +42,8 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Q-LEARNING… DE LA THÉORIE À LA PRATIQUE                  | Ali Amine Ghazali            | [Slides (PDF)](26-02-2025/Q-Learning_Ali-Amine-Ghazali.pdf) |
 
 ## February 27
-=======
+| Presentation Title                                       | Speaker Name                 | Content                                                                                                                                                                                          |
+|----------------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | One Backend to Rule Them All                             | [Garth Henson](https://linkedin.com/in/garthhenson) | [Slides (PDF)](26-02-2025/One_Backend_to_Rule_Them_All-Garth_Henson.pdf) / [Code](https://github.com/guahanweb/demo-power-network) |
 | What's New in ASP.NET Core 9 and Blazor 9                | Christian Wenz               | [Slides (PDF)](26-02-2025/what's_new_in_asp.net_core_9-christian_wenz.pdf)  |
 | CLI Comeback: Développez des applications CLI en .NET    | Tidjani Belmansour           | [Slides (PDF)](26-02-2025/developpez_des_applications_CLI_en_DotNet-Tidjani_Belmansour.pdf)                                                          |
