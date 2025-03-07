@@ -107,7 +107,7 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | (not) Alone in the Dark Mode                                 | Raphaël Goetter     | [Slides (PDF)](28-02-2025/Darkmode-raphael_goetter.pdf)                       |
 | The Statistics of Anomaly Detection                          | Philip Tellis       | [Slides (PDF)](https://speakerdeck.com/bluesmoon/the-statistics-of-anomaly-detection) |
 | The CLI awakens - Build your Jedi-grade developer toolkit | Marc-Antoine Aubé | [slides](https://speakerdeck.com/marcaube/the-cli-awakens) |
-| DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM#_Blasting_demons_using_C#_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
+| DooM# - Blasting demons using C# without the unsafe keyword  | Wesley Cabus        | [Slides (PDF)](28-02-2025/DooM%23_Blasting_demons_using_C%23_without_the_unsafe_keyword-Wesley_Cabus.pdf) |
 | Why Am I Always Late? Or Is It Early? Why Are Dates So Hard? | Dan Mallott         | [Slides (PDF)](28-02-2025/why_am_i_always_late_or_is_it_early_why_are_dates_so_hard-dan_mallott.pdf) |
 | AI and the SDLC/DevOps Conundrum                             | Adam Englander | [Slides (PDF)](28-02-2025/AI_and_the_SDLC_DevOps_Conundrum-Adam_Englander.pdf) |
 | The Good, The Bad and The Ugly... Diagrams                   | Iancho Dimitrov    | [Slides (PDF)](28-02-2025/The%20Good%2C%20The%20Bad%20and%20The%20Ugly...%20Diagrams%20-%20Iancho%20Dimitrov.pdf) |
