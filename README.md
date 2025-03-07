@@ -128,3 +128,4 @@ Below you will find the slides of most presentations given at ConFoo 2025.
 | Cloud Security Best Practices                                | Jonathan Marcil     | [Slides (PDF)](28-02-2025/cloud_security_best_practices-jonathan_marcil.pdf)               |
 | Shipping Gen AI Features - From Concept to Production        | Edmund Lam          | [Slides (PDF)](28-02-2025/shipping_gen_ai_features-Edmund_Lam.pdf)  |
 | Boosting your mobile app - Small details, Big impact         | [Mathieu Fillion](https://linkedin.com/in/matfillion) | [Slides (PDF)](28-02-2025/Small-details-big-impact-MathieuFillion.pdf) |
+| Tête première dans Phoenix LiveView | [Marc-Olivier Fiset](https://www.linkedin.com/in/marcofiset/) | [Slides (PDF)](28-02-2025/tete_premiere_dans_phoenix_liveview-marc-olivier_fiset.pdf) |
